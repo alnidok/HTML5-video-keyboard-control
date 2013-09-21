@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	var video = $('#video2')[0];
+	var video = $('#video')[0];
 	$(document).keydown(function(evt) {
 		switch(evt.keyCode) {
 			case 32:
